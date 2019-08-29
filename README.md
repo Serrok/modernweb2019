@@ -1,6 +1,6 @@
 # [Modern Web 2019] 趨勢科技 - 誰是效能王
 
-Demo: https://serrok.github.io/modernweb2019
+Demo: https://serrok.github.io/modernweb2019/
 
 [![image](https://user-images.githubusercontent.com/447801/63767651-cf808480-c900-11e9-8266-457dd8a4ac03.png)](https://trendmicro-frontend.github.io/modernweb2019)
 
